@@ -8,6 +8,7 @@ namespace Login
 {
     class Player
     {
+        // Note sure yet what this thing should do... but he might have its login as username
         String username;
         public Player(String name)
         {
